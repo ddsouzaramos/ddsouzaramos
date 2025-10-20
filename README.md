@@ -1,29 +1,29 @@
 # 📊 Danilo Souza Ramos
 
-**Especialista em Dados | Engenheiro de Integração | Desenvolvedor Full Stack**
+**Analista de Conversão e Integração de Dados | Desenvolvedor Full Stack**
 
-Profissional com sólida experiência na área de dados, atuando na modelagem, integração e análise de grandes volumes de informação para apoiar decisões estratégicas. Com mais de 15 anos de atuação em tecnologia, desenvolvo soluções que conectam sistemas, estruturam pipelines de dados e transformam informações brutas em inteligência acionável.
+Profissional com mais de 15 anos de experiência em tecnologia e dados, especializado em modelagem, integração e transformação de grandes volumes de informação para apoiar decisões estratégicas e operacionais.
+Atuo na liderança de projetos de conversão e integração de dados, com foco em confiabilidade, performance e governança da informação. Tenho experiência na criação de pipelines de dados (ETL/ELT), automação de processos, e integração entre sistemas heterogêneos, garantindo integridade, consistência e escalabilidade dos dados.
 
-Atualmente, lidero projetos de conversão e integração de dados na Siplan, com foco em confiabilidade, escalabilidade e governança.
+Com sólido domínio em SQL, Python e desenvolvimento full stack, busco constantemente transformar dados brutos em insights acionáveis e contribuir para soluções que gerem valor real ao negócio.
 
----
 
 ## 🎯 O que entrego
 
 - **Arquitetura de Dados**  
-  Estruturação de pipelines eficientes e seguros, com foco em performance e rastreabilidade.
+  Estruturação de pipelines eficientes, seguros e escaláveis, com foco em performance, rastreabilidade e governança.
 
 - **ETL e Integração**  
-  Conectando fontes heterogêneas com Talend, Pentaho, Python e SQL avançado.
+  Conexão de fontes heterogêneas de dados utilizando Talend, Pentaho, Python e SQL avançado, assegurando integridade e consistência.
 
 - **Dashboards Estratégicos**  
-  Visualizações com Power BI e Tableau voltadas à tomada de decisão.
+  Criação de visualizações interativas e analíticas em Power BI e Tableau, orientadas à tomada de decisão baseada em dados.
 
 - **Automação e Infraestrutura**  
-  Ambientes isolados com Docker, orquestrados via Compose e configurados em servidores Linux.
+  Implementação de ambientes isolados com Docker, orquestrados via Compose e configurados em servidores Linux, otimizando a entrega contínua.
 
 - **Desenvolvimento Full Stack**  
-  Aplicações web com foco em dados, usando Vue.js, PHP e Python.
+  Construção de aplicações web orientadas a dados, utilizando Python, com foco em usabilidade e integração.
 
 ---
 
@@ -36,7 +36,6 @@ Atualmente, lidero projetos de conversão e integração de dados na Siplan, com
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
